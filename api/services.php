@@ -7,7 +7,7 @@
     <div class="position-relative">
         <!-- <img src="images/Vector.png" alt="" class="home-left-img m-0 col-lg-3 col-md-12 col-sm-12"> -->
         <!-- <img src="images/Group 2.png" alt="" class="home-right-img m-0 col-lg-9 col-md-12 col-sm-12"> -->
-        <div class="container home-container-height d-flex align-items-center">
+        <div class="container home-container-height d-flex align-items-center" style="padding-top:220px">
             <div class="row w-100 justify-content-between align-items-start justify-content-small-center">
                 <div class="text-start col-lg-5 col-md-6 col-sm-12 p-0 small-padding-left" style="z-index: 1; ">
 
@@ -18,13 +18,13 @@
                         Explore <strong style="font-weight: 700;">INFIN<img src="images/Vector (1).png">HUB's</strong> suite of services, designed to provide comprehensive solutions for your digital and financial needs. Each service is backed by our commitment to innovation, customization, and exceptional support.
                     </p>
                 </div>
-                <img src="images/gdhjsm.png" class="text-start col-lg-6  col-md-6 col-12" style="width: 600px;height: 570px;">
+                <img src="images/gdhjsm.png" class="text-start col-lg-5  col-md-6 col-sm-12">
             </div>
         </div>
     </div>
 </section>
 
-<section class="trading-second-content pt-5">
+<section class="trading-second-contents pt-5">
 
     <div class="w-100 timeline-animation container">
         <!-- container # 1 -->

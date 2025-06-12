@@ -261,7 +261,7 @@
 /* Home Page Styles */
 
 .top-home-page {
-    height: 130vh;
+    /* height: 130vh; */
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -387,6 +387,30 @@
     color: #fff !important;
 }
 
+.gradient-div {
+    width: 100%;
+    height: 100%;
+    background-color: #008B8B;
+    /* background-image: radial-gradient(circle, rgba(0, 0, 0, 0.8) 80%, rgba(0, 255, 0, 0.8) 20%);
+    backdrop-filter: blur(60px);
+    -webkit-backdrop-filter: blur(10px); */
+    border-radius: 50px;
+    overflow: hidden;
+    /* Clip excess */
+}
+
+.contact-icns {
+    /* padding: 20px; */
+    background-color: rgba(30, 30, 30, 0.3);
+    /* #1e1e1e with 70% opacity */
+    backdrop-filter: blur(10px);
+    /* Blur effect */
+    -webkit-backdrop-filter: blur(10px);
+    /* Safari support */
+    color: #fff !important;
+    /* Subtle white border */
+}
+
 .prompt-font {
     font-family: "prompt", serif;
 
@@ -465,13 +489,14 @@
     width: 100%;
     height: auto;
     /* background-image: url('images/p8.png'); */
-    /* background: linear-gradient(0deg, #000 75%, #008B8B 126%); */
+    background: linear-gradient(0deg, #000 75%, #008B8B 126%);
     background-size: cover;
 }
 
 .triple-layer-bg {
     /* background: linear-gradient(0deg, #008B8B -32%, #000 32%, #000 84%, #008B8B 114%) !important;*/
-    background: linear-gradient(0deg, #008B8B -83%, #000 47%, #000 84%, #008B8B 132%) !important;
+    background: linear-gradient(0deg, #008B8B -83%, #000 47%, #000 84%, #000 132%) !important;
+    background-color: #000;
 
 }
 
@@ -710,7 +735,7 @@ a:hover {
 
     .home-container-height {
         margin-top: 60px !important;
-        margin-bottom: 60px !important;
+        /* margin-bottom: 60px !important; */
     }
 
     .small-padding-left {
@@ -882,6 +907,14 @@ a:hover {
     background-size: cover;
     margin-top: -1px;
 }
+.trading-second-contents {
+    background: linear-gradient(0deg, #008B8B -83%, #000 47%, #008B8B 1017%, #008B8B 69%) !important;
+    width: 100%;
+    height: auto;
+    background-position: top;
+    background-size: cover;
+    margin-top: -1px;
+}
 
 .swiper-slide {
     height: auto !important;
@@ -1019,7 +1052,7 @@ a:hover {
 }
 
 .about-second-content {
-    background: linear-gradient(0deg, #008B8B -83%, #000 47%, #000 84%, #008B8B 132%) !important;
+    background: linear-gradient(0deg, #008B8B -83%, #000 47%, #000 84%, #000 132%) !important;
 
     background-size: cover;
 }
@@ -1169,11 +1202,12 @@ a:hover {
 }
 
 .mission-vision-card {
-    background-color: #101c1e;
+    background-color: #1e1e1e8f;
     border-radius: 20px;
     padding: 30px;
     height: auto;
     border: 1px solid #008B8B;
+    max-width: 510px;
 }
 
 /* Contact Us Page  */
@@ -1563,7 +1597,7 @@ a:hover {
     }
 
     .top-home-page {
-        height: 100vh !important;
+        /* height: 100vh !important; */
     }
 
     .top-home-page-service {
@@ -1701,5 +1735,5 @@ a:hover {
 }
 
 .media-marketing-top-section {
-    
+    padding-right: :0px;;
 }

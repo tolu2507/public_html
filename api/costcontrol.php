@@ -14,7 +14,7 @@
     .services-second-main-content {
         background: transparent !important;
         position: relative !important;
-        margin-top: -20vh !important;
+        margin-top: -1vh !important;
     }
 
     .bottom-gradient {
@@ -49,7 +49,7 @@
 
     @media (max-width: 992px) {
         .services-second-main-content {
-            margin-top: -25vh !important;
+            /* margin-top: -25vh !important; */
         }
 
         .top-section-logo-img {
@@ -71,7 +71,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -15vh !important;
+            /* margin-top: -15vh !important; */
         }
 
         .bottom-gradient {
@@ -87,7 +87,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -10vh !important;
+            /* margin-top: -10vh !important; */
         }
 
         .bottom-gradient {
@@ -97,13 +97,13 @@
 </style>
 
 
-<section class="top-home-page m-0">
+<section class="top-home-page m-0" style="padding-bottom:90px;padding-top:90px">
     <img class="top-section-logo-img" src="images/infinity-logo.png" alt="logo">
     <div id="particles-js"></div>
     <div class="position-relative">
-        <div class="container home-container-height d-flex flex-wrap align-items-center justify-content-between">
+        <div class="container home-container-height d-flex flex-wrap justify-content-between">
 
-            <div class="text-start text-under-main-heading-changing  col-lg-7 col-md-6 col-sm-12" style="z-index: 1; top:50px; position:relative;">
+            <div class="text-start text-under-main-heading-changing  col-lg-6 col-md-6 col-sm-12" style="z-index: 1; top:50px; position:relative;">
 
                 <h1 class="text-light margin-top-cost mb-0 main-section-heading " style="z-index: 1;">Cost Control &<br><span class="green-color w-100-span">Risk Management</span>
                 </h1>
@@ -111,7 +111,7 @@
                 </p>
             </div>
 
-            <img src="images/hand.png" class="cost-image-absolute text-start col-lg-6 col-md-6 col-sm-12" style="top: 100px !important;">
+            <img src="images/hand.png" class="text-start col-lg-6 col-md-6 col-12" >
         </div>
     </div>
 </section>
@@ -133,7 +133,7 @@
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab1">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12" >
                 <p class="text-light services-container-inner-content">Our Real-Time Risk Assessment tool helps you instantly identify and manage risks, enabling better decision-making in dynamic markets.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Immediate risk identification and evaluation.</li>
@@ -146,11 +146,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/risk-management-businessman-touching-virtual-risk-level-indicator-from-low-high-financial-business-analysis-financial-risk-assessment-project-risk-mitigation-investment-strategy edit.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/risk-management-businessman-touching-virtual-risk-level-indicator-from-low-high-financial-business-analysis-financial-risk-assessment-project-risk-mitigation-investment-strategy edit.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12" >
                 <p class="text-light services-container-inner-content">Our Cost Optimization Strategies focus on minimizing operational expenses while maximizing trading efficiency and profitability.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Tailored strategies to reduce operational and trading costs.</li>
@@ -163,11 +163,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/marketer-using-pen-pointing-graph-showing-seo-concept-optimization-analysis-tools-search-engi.jpg">
+            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/marketer-using-pen-pointing-graph-showing-seo-concept-optimization-analysis-tools-search-engi.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12" >
                 <p class="text-light services-container-inner-content">Predictive Analytics uses historical data and advanced algorithms to forecast market trends and enhance trading strategies.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Anticipate market movements with data-driven insights.</li>
@@ -180,11 +180,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/creative-glowing-dark-digital-business-interface-with-various-icons-background-diagnistics-activation-tech-data-anlysis-concept-3d-rendering.jpg">
+            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/creative-glowing-dark-digital-business-interface-with-various-icons-background-diagnistics-activation-tech-data-anlysis-concept-3d-rendering.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12" >
                 <p class="text-light services-container-inner-content">Our Risk Management Platforms empower your trading business to detect, assess, and mitigate risks in real time, ensuring secure and effective trading operations.
                 </p>
                 <ul>
@@ -198,11 +198,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/high-risk-business-decision-making-risk-analysis-measuring-level-bar-virtual-risky-business-risk-management-control-strategy.jpg">
+            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/high-risk-business-decision-making-risk-analysis-measuring-level-bar-virtual-risky-business-risk-management-control-strategy.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12" >
                 <p class="text-light services-container-inner-content">Our Compliance Monitoring Systems ensure that your trading business consistently meets regulatory requirements, mitigating legal risks and enhancing trust.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Continuous monitoring of regulatory standards and policies.</li>
@@ -215,7 +215,7 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/78597371_HUD-Circle-8p_Back-hand-Reg-Tech.jpg">
+            <img class="col-lg-6 col-md-6 col-12 tab-content-images my-3" style="height:243px;" src="images/78597371_HUD-Circle-8p_Back-hand-Reg-Tech.jpg">
         </div>
     </div>
     </div>

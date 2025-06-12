@@ -14,7 +14,7 @@
     .services-second-main-content {
         background: transparent !important;
         position: relative !important;
-        margin-top: -39vh !important;
+        margin-top: -10vh !important;
     }
 
     .bottom-gradient {
@@ -29,6 +29,9 @@
     .services-border {
         margin-bottom: 12vh !important;
     }
+    .v {
+            position:relative; right:-180px
+        }
 
     .top-section-logo-img {
         position: absolute;
@@ -45,11 +48,27 @@
             top: -30%;
             height: 480px;
         }
+        .t {
+            margin-top:70px
+        }
     }
 
+    @media (max-width: 1440px) {
+        .services-second-main-content {
+            /* margin-top: -65vh !important; */
+        }
+    }
     @media (max-width: 992px) {
         .services-second-main-content {
-            margin-top: -25vh !important;
+            /* margin-top: -5vh !important; */
+        }
+
+        .v {
+            position:relative; right:-180px
+        }
+
+        .t {
+            margin-top:70px
         }
 
         .top-section-logo-img {
@@ -69,9 +88,12 @@
             top: -20%;
             height: 360px;
         }
+        .v {
+            position:relative; right:0px
+        }
 
         .services-second-main-content {
-            margin-top: -15vh !important;
+            /* margin-top: -15vh !important; */
         }
 
         .bottom-gradient {
@@ -86,8 +108,12 @@
             height: 280px;
         }
 
+        .v {
+            position:relative; right:0px
+        }
+
         .services-second-main-content {
-            margin-top: -10vh !important;
+            /* margin-top: -10vh !important; */
         }
 
         .bottom-gradient {
@@ -96,20 +122,20 @@
     }
 </style>
 
-<section class="top-home-page m-0 media-marketing-top-section">
+<section class="top-home-page m-0 media-marketing-top-section" style="padding-top:130px; padding-bottom:130px">
     <img class="top-section-logo-img" src="images/infinity-logo.png" alt="logo">
     <div id="particles-js"></div>
     <div class="position-relative">
         <div class="container home-container-height d-flex ">
-            <div class="row justify-content-between w-100 justify-content-small-center pt-2 nowrap">
-                <div class="text-start col-lg-7 col-md-6 col-sm-12" style="z-index: 1;">
+            <div class="row justify-content-between w-100 justify-content-small-center pt-2">
+                <div class="text-start col-lg-6 col-md-6 col-sm-12" style="z-index: 1;">
                     <h1 class="text-light main-section-heading mb-2">Media and <br><span class="green-color w-100-span">Marketing </span>Solutions
                     </h1>
                     <p class="text-light m-0 p-0 text-size-adjustment" style="padding: 15px 20% 0px 0px !important;">Driving growth and engagement with innovative media strategies and comprehensive marketing solutions.</p>
                 </div>
                 <!-- <div class="flex-1"> -->
-                <img src="images/3rd3333.png"
-                    class="text-start col-lg-6 col-md-6 col-sm-10 p-0">
+                <img src="images/svg/photo.png"
+                    class="text-start col-lg-6 col-md-6 col-12 p-0 v">
                     </div>
             <!-- </div> -->
         </div>
@@ -139,7 +165,7 @@
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab1">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Efficiently manage your online accounts with streamlined setup and ongoing management services to ensure optimal performance.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Hassle-free account creation and verification.</li>
@@ -152,13 +178,13 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/2448123_7 edit.jpg" style="height:243px; object-fit:fill;">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" src="images/2448123_7 edit.jpg" style="height:243px; object-fit:fill;">
         </div>
 
 
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Maximize your brand's online presence with professional social media management that engages audiences and drives growth.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Content creation and scheduling across multiple platforms.</li>
@@ -171,12 +197,12 @@
                     LEARN MORE 
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/952158_4839.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/952158_4839.jpg">
         </div>
 
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Boost your visibility and reach with targeted digital advertising campaigns across multiple online platforms.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">PPC (pay-per-click) and display advertising for increased traffic</li>
@@ -189,12 +215,12 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group88.png">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group88.png">
         </div>
 
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content"><span class="green-color font-size-18">Online Reputation Management (ORM)</span> is the practice of shaping and maintaining a positive digital identity across online platforms. By addressing negative content, enhancing positive visibility, and managing reviews, ORM strategies help businesses and individuals establish credibility and trust. Effective ORM ensures that online reputation reflects accurately, supporting brand growth, customer loyalty, and long-term success in the digital landscape.
                     <br>
                     <br>
@@ -231,12 +257,12 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/22614232_16843.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/22614232_16843.jpg">
         </div>
 
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Infin<img src="images/Vector (1).png">hub’s Digital PR service amplifies brand visibility and influence by securing top-tier media mentions, distributing press releases, and promoting content on global and industry-specific platforms. Their tailored campaigns ensure impactful coverage, connecting businesses with their target audience while maximizing digital reach and authority.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Securing media mentions, executive quotes, and featured articles.</li>
@@ -250,11 +276,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/725036_news paper11.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/725036_news paper11.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab6">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">
                     <span class="green-color font-size-18">Organic Traffic Optimization (OTO)</span> involves using SEO techniques to improve a website’s visibility and ranking on search engines without relying on paid ads. By optimizing content, technical elements, and online presence, businesses can increase organic traffic, enhance user engagement, and drive more qualified leads. Effective OTO strategies help businesses achieve long-term success and higher ROI by ensuring that their websites appear more prominently in search results.
                     <br><br>
@@ -281,11 +307,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/digital-seo-text-icons-magnifier-influencer-strategy-influencer-online-marketing-abstraction.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/digital-seo-text-icons-magnifier-influencer-strategy-influencer-online-marketing-abstraction.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab7">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">
                     <span class="green-color font-size-18">Performance Marketing Services:</span> Infin<img src="images/Vector (1).png">hub’s Performance Marketing services drive measurable results through data-driven campaigns on search engines, social media, and content platforms. By optimizing ad spend, creative assets, and targeting strategies, Infin <img src="images/Vector (1).png">hub transforms traffic into conversions, ensuring maximum ROI for businesses across various sectors.
                 </p>
@@ -300,11 +326,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group 84.png">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group 84.png">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab8">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Infin<img src="images/Vector (1).png">hub’s Wikipedia Services provide tailored solutions to establish, manage, and monitor Wikipedia pages for individuals and businesses. With expertise in Wikipedia’s guidelines, Infin <img src="images/Vector (1).png">hub ensures compliance, transparency, and credibility while creating new pages, editing existing content, and maintaining a neutral and authoritative presence.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Creating Wikipedia pages that meet notability and sourcing requirements.</li>
@@ -318,12 +344,12 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/attachment111.png">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/attachment111.png">
         </div>
 
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab9">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Infin<img src="images/Vector (1).png">hub’s AI Services help businesses adapt to the rapidly evolving AI landscape by leveraging AI technologies to protect and enhance their online presence. With expertise in AI-driven search platforms like Bard, they provide comprehensive analysis and strategies to maintain a competitive edge in the dynamic world of AI-integrated reputation management.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Analysis of digital footprint across AI platforms like Bard and ChatGPT.</li>
@@ -336,7 +362,7 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/ai-technology-microchip-background-futuristic-innovation-technology-remix.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/ai-technology-microchip-background-futuristic-innovation-technology-remix.jpg">
         </div>
     </div>
     </div>

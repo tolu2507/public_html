@@ -1,5 +1,5 @@
 <?php include('header.php');  ?>
-    <section class="top-home-page m-0">
+    <section class="top-home-page m-0" style="padding-bottom:130px">
     <div id="particles-js"></div> 
         <div class="position-relative">
             <img src="images/Vector.png" alt="" class="home-left-img m-0 col-lg-3 col-md-12 col-sm-12">
@@ -32,7 +32,7 @@
 
                     
 
-                    <img src="images/svg/images.png"
+                    <img src="images/svg/about.png"
                         class="image-absolute text-start col-lg-7 col-md-6 col-sm-12 p-0" style="width: 847px;height: 616px; z-index:-9999px">
 
                 </div>
@@ -40,7 +40,7 @@
         </div>
     </section>
 
-    <section class="m-0 py-5 px-2 background-dark who-are-we">
+    <section class="m-0 py-5 px-2 background-dark who-are-we row justify-content-center align-items-center" style="min-height:270px">
 
         <div class="row justify-content-center align-items-center m-0">
             <h2
@@ -48,15 +48,38 @@
                 Who
                 <br><span class="green-color">We Are</span>
             </h2>
-            <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment">
-                Infin<img src="images/Vector (1).png">hub is a forward-thinking technology provider based in the UAE, known for delivering tailored
-                solutions across diverse sectors. Our team combines technical expertise with a passion for innovation,
-                creating state-of-the-art platforms and services that redefine industry standards. As a customer-centric
-                company, we focus on understanding and exceeding our clients' expectations, enabling them to thrive in a
-                competitive digital world.
-            </p>
+            <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment hidden" style="height:160px; width:870px;">
+            Infin<img src="images/Vector (1).png">hub is a forward-thinking technology provider based in the UAE, known for delivering tailored
+            solutions across diverse sectors. Our team combines technical expertise with a passion for innovation,
+            creating state-of-the-art platforms and services that redefine industry standards. As a customer-centric
+            company, we focus on understanding and exceeding our clients' expectations, enabling them to thrive in a
+            competitive digital world.
+        </p>
+        <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment show" >
+            Infin<img src="images/Vector (1).png">hub is a forward-thinking technology provider based in the UAE, known for delivering tailored
+            solutions across diverse sectors. Our team combines technical expertise with a passion for innovation,
+            creating state-of-the-art platforms and services that redefine industry standards. As a customer-centric
+            company, we focus on understanding and exceeding our clients' expectations, enabling them to thrive in a
+            competitive digital world.
+        </p>
         </div>
     </section>
+
+    <section style="width:100vw; position:relative">
+    <div class="hidden" style="width:100vw; position:absolute; top: -120px;">
+        <svg width="100vw" height="278" viewBox="0 0 1440 378" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g filter="url(#filter0_f_9_1064)">
+                <rect y="170.429" width="1440" height="36.9369" fill="#008B8B"/>
+            </g>
+            <defs>
+                <filter id="filter0_f_9_1064" x="-170" y="0.428711" width="1780" height="376.937" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+                    <feGaussianBlur stdDeviation="85" result="effect1_foregroundBlur_9_1064"/>
+                </filter>
+            </defs>
+        </svg>
+    </div>
 
     <section class="about-second-content px-1 py-5">
         <div class="infinite-image-div my-5">
@@ -161,7 +184,22 @@
         </div>
 
 
-        <div class="container ">
+        <div class="container " style="padding-top:20px; position:relative">
+            <div style="position:absolute; top:-220px; left:-140px">
+                <svg width="100vw" height="677" viewBox="0 0 1440 677" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <g filter="url(#filter0_f_1094_70)">
+                        <rect x="194.632" y="300.162" width="1047.15" height="76.831" fill="#008B8B"/>
+                    </g>
+                    <defs>
+                        <filter id="filter0_f_1094_70" x="-105.368" y="0.161621" width="1647.15" height="676.831" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                            <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+                            <feGaussianBlur stdDeviation="150" result="effect1_foregroundBlur_1094_70"/>
+                        </filter>
+                    </defs>
+                </svg>
+
+            </div>
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-6 col-sm-12 p-3">
                     <div class="mission-vision-card">
@@ -209,4 +247,5 @@
         <div class="w-100">
         <?php include('footer.php');  ?>
         </div>
+    </section>
     </section>

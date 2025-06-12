@@ -14,7 +14,7 @@
     .services-second-main-content {
         background: transparent !important;
         position: relative !important;
-        margin-top: -52vh !important;
+        /* margin-top: -52vh !important; */
     }
 
     .bottom-gradient {
@@ -49,7 +49,7 @@
 
     @media (max-width: 992px) {
         .services-second-main-content {
-            margin-top: -25vh !important;
+            /* margin-top: -25vh !important; */
         }
 
         .top-section-logo-img {
@@ -71,7 +71,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -15vh !important;
+            /* margin-top: -15vh !important; */
         }
 
         .bottom-gradient {
@@ -87,7 +87,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -10vh !important;
+            /* margin-top: -10vh !important; */
         }
 
         .bottom-gradient {
@@ -97,7 +97,7 @@
 </style>
 
 
-<section class="top-home-page m-0">
+<section class="top-home-page m-0" style="padding-top:130px; padding-bottom:130px">
     <img class="top-section-logo-img" src="images/infinity-logo.png" alt="logo">
     <div id="particles-js"></div>
     <div class="position-relative">
@@ -131,7 +131,7 @@
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab1">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Create impactful video content to engage your audience, enhance your brand's story, and drive conversions.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">High-quality videos for marketing, tutorials, and product showcases.</li>
@@ -144,11 +144,11 @@
                     LEARN MORE
                 </a> -->
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/video-editing-photoshop-full-hd.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/video-editing-photoshop-full-hd.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Develop stunning visuals that capture attention and communicate your brand's message effectively.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Custom designs for logos, banners, and promotional material.</li>
@@ -161,11 +161,11 @@
                     LEARN MORE
                 </a> -->
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/contemporary-room-workplace-office-supplies-concept.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/contemporary-room-workplace-office-supplies-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Build unique and user-friendly websites and mobile apps that offer seamless experiences.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Fully customized designs tailored to user needs and brand identity.</li>
@@ -178,11 +178,11 @@
                     LEARN MORE
                 </a> -->
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/representations-user-experience-interface-design.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/representations-user-experience-interface-design.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Create dynamic multimedia content that combines text, audio, and visuals for maximum impact.
                 </p>
                 <ul>
@@ -196,11 +196,11 @@
                     LEARN MORE
                 </a> -->
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/close-up-information-sign.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/close-up-information-sign.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
-            <div class="col-lg-7 col-md-7 col-sm-12">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Develop a cohesive content plan that aligns with your business objectives and drives measurable results.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Data-driven approach to content creation and distribution.</li>
@@ -213,7 +213,7 @@
                     LEARN MORE
                 </a> -->
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" src="images/1346113525.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/1346113525.jpg">
         </div>
     </div>
     </div>

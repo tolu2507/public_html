@@ -14,7 +14,7 @@
     .services-second-main-content {
         background: transparent !important;
         position: relative !important;
-        margin-top: -37vh !important;
+        margin-top: -5vh !important;
     }
 
     .bottom-gradient {
@@ -45,11 +45,14 @@
             top: -30%;
             height: 480px;
         }
+        .services-second-main-content {
+            margin-top: -5vh !important;
+        }
     }
 
     @media (max-width: 992px) {
         .services-second-main-content {
-            margin-top: -25vh !important;
+            margin-top: -5vh !important;
         }
 
         .top-section-logo-img {
@@ -71,7 +74,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -15vh !important;
+            margin-top: -5vh !important;
         }
 
         .bottom-gradient {
@@ -87,7 +90,7 @@
         }
 
         .services-second-main-content {
-            margin-top: -10vh !important;
+            /* margin-top: -5vh !important; */
         }
 
         .bottom-gradient {
@@ -96,18 +99,18 @@
     }
 </style>
 
-<section class="top-home-page m-0">
+<section class="top-home-page m-0" style="padding-bottom:120px;padding-top:120px">
     <img class="top-section-logo-img" src="images/infinity-logo.png" alt="logo">
     <div id="particles-js"></div>
     <div class="position-relative">
-        <div class="container home-container-height d-flex make-it-flex-wrap-on-mobile align-items-center justify-content-between">
+        <div class="container home-container-height d-flex make-it-flex-wrap-on-mobile  justify-content-between">
             <div class="text-start text-under-main-heading-changing  col-lg-7 col-md-6 col-sm-12" style="z-index: 1;">
                 <h1 class="text-light margin-top-cost mb-0 main-section-heading " style="z-index: 1;">CoasCloud Services<br><span class="green-color w-100-span">& Data Center
                 </h1>
                 <p class="text-light mt-3 text-under-main-heading">Powering your business with secure, scalable cloud solutions and reliable data center infrastructure.
                 </p>
             </div>
-            <img src="images/cloud.png" class="cost-image-absolute text-start col-lg-6 col-md-6 col-sm-12">
+            <img src="images/cloud.png" class=" text-start col-lg-6 col-md-6 col-sm-12">
         </div>
     </div>
 </section>
@@ -128,7 +131,7 @@
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab1">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Easily scale your infrastructure to meet changing business demands with secure, flexible, and cost-effective cloud solutions.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">On-demand scalability to handle traffic spikes.</li>
@@ -141,11 +144,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/cloud-computing-technology-online-data-storage-business-network-concept.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/cloud-computing-technology-online-data-storage-business-network-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Protect your sensitive data with advanced security measures to ensure privacy and compliance across all platforms.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Encryption and secure access controls.</li>
@@ -158,11 +161,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/cyber-security-concept-digital-art edit.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/cyber-security-concept-digital-art edit.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Ensure business continuity with reliable disaster recovery solutions that protect your data from unforeseen events.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Quick data restoration after disruptions.</li>
@@ -175,11 +178,11 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/disaster-recovery-backup-your-business-project-2020.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/disaster-recovery-backup-your-business-project-2020.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
-            <div class="col-lg-7 col-md-7 col-sm-12" style="width:600px;">
+            <div class="col-lg-5 col-md-5 col-sm-12">
                 <p class="text-light services-container-inner-content">Access around-the-clock expert support to resolve issues and ensure smooth operations for your business.
                 </p>
                 <ul>
@@ -193,7 +196,7 @@
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-4 col-md-5 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/174524403_67115f3a-33bc-44d6-9f9b-13c32bb4c737.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/174524403_67115f3a-33bc-44d6-9f9b-13c32bb4c737.jpg">
         </div>
     </div>
     </div>

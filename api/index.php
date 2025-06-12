@@ -18,14 +18,21 @@
     </div>
 </section>
 
-<section class="m-0 py-5 px-2 background-dark who-are-we">
+<section class="m-0 py-5 px-2 who-are-we background-dark row justify-content-center align-items-center" style="min-height:270px">
     <div class="row justify-content-center align-items-center m-0">
         <h2
             class="heading-text-width-custom grifter-font heading col-lg-3 col-md-4 col-sm-12 text-right m-0 p-0">
             Who
             <br><span class="green-color">We Are</span>
         </h2>
-        <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment">
+        <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment hidden" style="height:160px; width:870px;">
+            Infin<img src="images/Vector (1).png">hub is a forward-thinking technology provider based in the UAE, known for delivering tailored
+            solutions across diverse sectors. Our team combines technical expertise with a passion for innovation,
+            creating state-of-the-art platforms and services that redefine industry standards. As a customer-centric
+            company, we focus on understanding and exceeding our clients' expectations, enabling them to thrive in a
+            competitive digital world.
+        </p>
+        <p class="text-light col-lg-8 col-md-8 col-sm-12 px-5 border-color m-0 p-0 text-size-adjustment show" >
             Infin<img src="images/Vector (1).png">hub is a forward-thinking technology provider based in the UAE, known for delivering tailored
             solutions across diverse sectors. Our team combines technical expertise with a passion for innovation,
             creating state-of-the-art platforms and services that redefine industry standards. As a customer-centric
@@ -35,12 +42,27 @@
     </div>
 </section>
 
-<div class="triple-layer-bg w-100">
+<section style="width:100vw; position:relative">
+    <div class="hidden" style="width:100vw; position:absolute; top: -160px;">
+        <svg width="100vw" height="378" viewBox="0 0 1440 378" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g filter="url(#filter0_f_9_1064)">
+                <rect y="170.429" width="1440" height="36.9369" fill="#008B8B"/>
+            </g>
+            <defs>
+                <filter id="filter0_f_9_1064" x="-170" y="0.428711" width="1780" height="376.937" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                    <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+                    <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+                    <feGaussianBlur stdDeviation="85" result="effect1_foregroundBlur_9_1064"/>
+                </filter>
+            </defs>
+        </svg>
+    </div>
 
-    <div class="w-100 trip-bg-first-section">
-        <section class="gradiant-background  py-5 make-it-flex-class">
-            <h3 class="heading text-light text-center my-5 discover-text">Discover your <span class="green-color">Digital Solution</span>
-            </h3>
+    <div class="triple-layer-bg w-100">
+    <div class="w-100 bg-black trip-bg-first-section">
+        <section class="py-5 make-it-flex-class">
+            <p class=" text-light text-center my-5 discover-text">Discover your <span class="green-color">Digital Solution</span>
+            </p>
             <div class="swiper-container my-5 pt-5 hidden">
                 <!-- Additiitional required wrapper -->
                 <div class="swiper-wrapper" style="transform: none !important;">
@@ -238,4 +260,5 @@
             </div>
         </section>
     </div>
-</div>
+    </div>
+</section>    
