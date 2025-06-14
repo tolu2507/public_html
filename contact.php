@@ -39,6 +39,10 @@
                                 <label for="complex-phone" class="form-label text-light">Phone (Optional)</label>
                                 <input type="tel" class="form-control form-control-custom" id="complex-phone" placeholder="Enter Phone Number (Optional)">
                               </div>
+                              <div class="col-md-6 col-lg-6 col-sm-12">
+                                <label for="complex-first-name" class="form-label text-light">Service</label>
+                                <input type="text" class="form-control form-control-custom" id="complex-first-name" placeholder="Enter Service">
+                              </div>
                               <div class="col-12">
                                 <label for="complex-message" class="form-label text-light">Message</label>
                                 <textarea class="form-control form-control-area" id="complex-message" rows="9" placeholder="Enter Your Message"></textarea>

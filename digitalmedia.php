@@ -140,11 +140,11 @@
                     <li class="text-light services-container-inner-content">Full production cycle from concept to editing.</li>
                 </ul>
 
-                <!-- <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
-                </a> -->
+                </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/video-editing-photoshop-full-hd.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/video-editing-photoshop-full-hd.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
@@ -157,11 +157,11 @@
                     <li class="text-light services-container-inner-content">High-quality graphics for digital and print media.</li>
                 </ul>
 
-                <!-- <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
-                </a> -->
+                </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/contemporary-room-workplace-office-supplies-concept.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/contemporary-room-workplace-office-supplies-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
@@ -174,11 +174,11 @@
                     <li class="text-light services-container-inner-content">Fast-loading, SEO-optimized pages.</li>
                 </ul>
 
-                <!-- <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
-                </a> -->
+                </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/representations-user-experience-interface-design.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/representations-user-experience-interface-design.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
@@ -192,11 +192,11 @@
                     <li class="text-light services-container-inner-content">Enhanced audience interaction through varied media types.</li>
                 </ul>
 
-                <!-- <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
-                </a> -->
+                </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/close-up-information-sign.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/close-up-information-sign.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
@@ -209,11 +209,11 @@
                     <li class="text-light services-container-inner-content">Consistent and valuable messaging to build trust and authority.</li>
                 </ul>
 
-                <!-- <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
-                </a> -->
+                </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px" src="images/1346113525.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/1346113525.jpg">
         </div>
     </div>
     </div>

@@ -142,11 +142,11 @@
                     <li class="text-light services-container-inner-content">Enhanced risk mitigation strategies to protect investments.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/risk-management-businessman-touching-virtual-risk-level-indicator-from-low-high-financial-business-analysis-financial-risk-assessment-project-risk-mitigation-investment-strategy edit.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/risk-management-businessman-touching-virtual-risk-level-indicator-from-low-high-financial-business-analysis-financial-risk-assessment-project-risk-mitigation-investment-strategy edit.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
@@ -159,15 +159,15 @@
                     <li class="text-light services-container-inner-content">Scalable solutions to accommodate business growth.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/marketer-using-pen-pointing-graph-showing-seo-concept-optimization-analysis-tools-search-engi.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/marketer-using-pen-pointing-graph-showing-seo-concept-optimization-analysis-tools-search-engi.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
-            <div class="col-lg-5 col-md-5 col-sm-12" >
+            <div class="col-lg-5 col-md-5 col-12" >
                 <p class="text-light services-container-inner-content">Predictive Analytics uses historical data and advanced algorithms to forecast market trends and enhance trading strategies.</p>
                 <ul>
                     <li class="text-light services-container-inner-content">Anticipate market movements with data-driven insights.</li>
@@ -176,11 +176,11 @@
                     <li class="text-light services-container-inner-content">Tailored predictions based on specific trading needs.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/creative-glowing-dark-digital-business-interface-with-various-icons-background-diagnistics-activation-tech-data-anlysis-concept-3d-rendering.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/creative-glowing-dark-digital-business-interface-with-various-icons-background-diagnistics-activation-tech-data-anlysis-concept-3d-rendering.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
@@ -194,11 +194,11 @@
                     <li class="text-light services-container-inner-content">In-depth analytics to evaluate risk exposure and protect investments.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-6 col-sm-12 tab-content-images my-3" style="height:243px;" src="images/high-risk-business-decision-making-risk-analysis-measuring-level-bar-virtual-risky-business-risk-management-control-strategy.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/high-risk-business-decision-making-risk-analysis-measuring-level-bar-virtual-risky-business-risk-management-control-strategy.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
@@ -211,11 +211,11 @@
                     <li class="text-light services-container-inner-content">Integration with trading platforms for seamless compliance management.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-6 col-12 tab-content-images my-3" style="height:243px;" src="images/78597371_HUD-Circle-8p_Back-hand-Reg-Tech.jpg">
+            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/78597371_HUD-Circle-8p_Back-hand-Reg-Tech.jpg">
         </div>
     </div>
     </div>

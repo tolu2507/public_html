@@ -60,9 +60,9 @@
 				<a href="contact.php" class="hub_footer_services">Contact</a>
 			</div>
 			<div class="col-4 col-md-2 col-lg-2 p-0">
-				<a href="#" class="hub_footer_services">Privacy</a>
-				<a href="#" class="hub_footer_services">Terms</a>
-				<a href="#" class="hub_footer_services">Security</a>
+				<a href="privacypolicy.php" class="hub_footer_services">Privacy</a>
+				<a href="term.php" class="hub_footer_services">Terms</a>
+				<a href="security.php" class="hub_footer_services">Security</a>
 			</div>
 		</div>
 	</div>
@@ -126,9 +126,9 @@
 					</div>
 					<div class="col-4 d-flex justify-content-center align-items-center flex-column">
 						<p class="footer_p_c_l ">LEGAL</p>
-						<a href="#" class="hub_footer_services margin-left-0">Privacy</a>
-						<a href="#" class="hub_footer_services margin-left-0">Terms</a>
-						<a href="#" class="hub_footer_services margin-left-0">Security</a>
+						<a href="privacypolicy.php" class="hub_footer_services margin-left-0">Privacy</a>
+						<a href="term.php" class="hub_footer_services margin-left-0">Terms</a>
+						<a href="security.php" class="hub_footer_services margin-left-0">Security</a>
 					</div>
 				</div>
 			</div>

@@ -134,7 +134,7 @@
                     <p class="text-light m-0 p-0 text-size-adjustment" style="padding: 15px 20% 0px 0px !important;">Driving growth and engagement with innovative media strategies and comprehensive marketing solutions.</p>
                 </div>
                 <!-- <div class="flex-1"> -->
-                <img src="images/svg/photo.png"
+                <img src="images/svg/hand.png"
                     class="text-start col-lg-6 col-md-6 col-12 p-0 v">
                     </div>
             <!-- </div> -->
@@ -174,11 +174,11 @@
                     <li class="text-light services-container-inner-content">Customizable settings to match business needs.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" src="images/2448123_7 edit.jpg" style="height:243px; object-fit:fill;">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" src="images/2448123_7 edit.jpg" style="height:243px; object-fit:cover;">
         </div>
 
 
@@ -193,11 +193,11 @@
                     <li class="text-light services-container-inner-content">Consistent branding and message alignment.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE 
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/952158_4839.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/952158_4839.jpg">
         </div>
 
 
@@ -211,11 +211,11 @@
                     <li class="text-light services-container-inner-content">A/B testing for maximizing ROI and ad effectiveness.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group88.png">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/Group88.png">
         </div>
 
 
@@ -253,11 +253,11 @@
                     <li class="text-light services-container-inner-content">Specialized ASO strategies for mobile trading apps.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/22614232_16843.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/22614232_16843.jpg">
         </div>
 
 
@@ -272,11 +272,11 @@
                     <li class="text-light services-container-inner-content">Comprehensive PR campaign planning and execution.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/725036_news paper11.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/725036_news paper11.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab6">
@@ -303,11 +303,11 @@
                     <li class="text-light services-container-inner-content">Review management to boost credibility and downloads.</li>
                     <li class="text-light services-container-inner-content">Multilingual support and geo-targeted ASO actions.</li>
                 </ul>
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/digital-seo-text-icons-magnifier-influencer-strategy-influencer-online-marketing-abstraction.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/digital-seo-text-icons-magnifier-influencer-strategy-influencer-online-marketing-abstraction.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab7">
@@ -322,11 +322,11 @@
                     <li class="text-light services-container-inner-content">Creative design and tailored messaging for platform-specific engagement.</li>
                     <li class="text-light services-container-inner-content">Comprehensive campaign setup, optimization, and reporting.</li>
                 </ul>
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/Group 84.png">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/Group 84.png">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab8">
@@ -340,11 +340,11 @@
                     <li class="text-light services-container-inner-content">Comprehensive guidance for long-term Wikipedia management.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/attachment111.png">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/attachment111.png">
         </div>
 
 
@@ -358,11 +358,11 @@
                     <li class="text-light services-container-inner-content">Customized guidance for AI-related business challenges and opportunities.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:fill;" src="images/ai-technology-microchip-background-futuristic-innovation-technology-remix.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/ai-technology-microchip-background-futuristic-innovation-technology-remix.jpg">
         </div>
     </div>
     </div>

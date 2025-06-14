@@ -140,11 +140,11 @@
                     <li class="text-light services-container-inner-content">Seamless integration with existing IT systems.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/cloud-computing-technology-online-data-storage-business-network-concept.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/cloud-computing-technology-online-data-storage-business-network-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
@@ -157,11 +157,11 @@
                     <li class="text-light services-container-inner-content">Regular security audits to ensure data integrity.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/cyber-security-concept-digital-art edit.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/cyber-security-concept-digital-art edit.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
@@ -174,11 +174,11 @@
                     <li class="text-light services-container-inner-content">Customizable recovery plans based on your business needs.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/disaster-recovery-backup-your-business-project-2020.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/disaster-recovery-backup-your-business-project-2020.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
@@ -192,11 +192,11 @@
                     <li class="text-light services-container-inner-content">Proactive issue resolution to prevent future downtime.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-6 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/174524403_67115f3a-33bc-44d6-9f9b-13c32bb4c737.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/174524403_67115f3a-33bc-44d6-9f9b-13c32bb4c737.jpg">
         </div>
     </div>
     </div>

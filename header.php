@@ -72,17 +72,18 @@
                     </div>
                     <!-- Dropdown Menu -->
                     <ul class="dropdown-menu drop-down-custom" style="width: 200px !important;" id="dropdownMenu">
+                        <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" style=" font-weight:700;" href="services.php">
+                           View All Services
+                        </a></li>
                         <li class="my-1 pt-0"><a class="px-2 mx-2 navbar-items text-light" href="media&marketing.php">Media & Marketing</a></li>
                         <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" href="etradingTechnology.php">E-Trading</a></li>
                         <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" href="coascloud.php">Cloud Services</a></li>
                         <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" href="costcontrol.php">Cost Control</a></li>
                         <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" href="digitalmedia.php">Digital Media</a></li>
-                        <li class="my-1"><a class="px-2 mx-2 navbar-items text-light" href="services.php">
-                           View All Services
-                        </a>
-                        </li>
+                        
                     </ul>
                 </li>
+                
                 <li class="d-flex justify-content-center align-items-center"><a href="about.php" class="navbar-items px-2 mx-2">About</a></li>
                 <li class="d-flex justify-content-center align-items-center"><a href="contact.php" class="navbar-items btn-contact px-2 mx-2 contact-us-green">Contact us</a></li>
             </ul>

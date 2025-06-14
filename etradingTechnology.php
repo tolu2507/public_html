@@ -164,11 +164,11 @@
                     <li class="text-light services-container-inner-content">Scalability to accommodate growing business needs.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/smartphone-with-financial-graphs-screen.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/smartphone-with-financial-graphs-screen.jpg">
         </div>
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab2">
             <div class="col-lg-6 col-md-5 col-sm-12">
@@ -180,11 +180,11 @@
                     <li class="text-light services-container-inner-content">Analytics to track customer behavior and improve service.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/customer-relationship-management-concept.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/customer-relationship-management-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab3">
@@ -197,11 +197,11 @@
                     <li class="text-light services-container-inner-content">Scalable features to handle growing account volumes.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/man-looking-bill-energy-crisis.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/man-looking-bill-energy-crisis.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab4">
@@ -215,11 +215,11 @@
                     <li class="text-light services-container-inner-content">Customizable bot settings for tailored strategies.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/digital-silhouette-human-head-with-world-map-stock-market-data-overlay-dark-blue-background-concept-global-finance-3d-rendering.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/digital-silhouette-human-head-with-world-map-stock-market-data-overlay-dark-blue-background-concept-global-finance-3d-rendering.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab5">
@@ -232,11 +232,11 @@
                     <li class="text-light services-container-inner-content">Customizable referral programs to maximize affiliate engagement.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/picforweb.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/picforweb.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab6">
@@ -251,11 +251,11 @@
                     <li class="text-light services-container-inner-content">Secure connections ensure data integrity.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/25561273_7043725 edit.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/25561273_7043725 edit.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab7">
@@ -269,11 +269,11 @@
                     <li class="text-light services-container-inner-content">Reduced human error and operational costs.</li>
                     <li class="text-light services-container-inner-content">Scalable automation for large-scale trading operations.</li>
                 </ul>
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/3d-rendering-industry-40-concept.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/3d-rendering-industry-40-concept.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab8">
@@ -286,11 +286,11 @@
                     <li class="text-light services-container-inner-content">Customizable dashboards for key performance metrics.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/3d-rendering-computer-notebook-with-graphic-office.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/3d-rendering-computer-notebook-with-graphic-office.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab9">
@@ -303,11 +303,11 @@
                     <li class="text-light services-container-inner-content">Data visualizations for better insights and decision-making.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/big-data-technology-business-finance-conceptual.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/big-data-technology-business-finance-conceptual.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab10">
@@ -320,11 +320,11 @@
                     <li class="text-light services-container-inner-content">Scalable solutions for high-volume trading environments.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/graphic-symbolizing-concept-cost-control.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/graphic-symbolizing-concept-cost-control.jpg">
         </div>
 
         <div class="mt-5 row justify-content-between align-items-start tab-content my-3" id="tab11">
@@ -337,11 +337,11 @@
                     <li class="text-light services-container-inner-content">Integration with trading platforms for seamless management.</li>
                 </ul>
 
-                <a href="" class="mt-3 tab-content-btn btn text-light">
+                <a href="contact.php" class="mt-3 tab-content-btn btn text-light">
                     LEARN MORE
                 </a>
             </div>
-            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px;" src="images/representation-user-experience-interface-design.jpg">
+            <img class="col-lg-5 col-md-5 col-12 tab-content-images my-3" style="height:243px; object-fit:cover;" src="images/representation-user-experience-interface-design.jpg">
         </div>
     </div>
     </div>

@@ -1,18 +1,21 @@
+<style>
+    div[style*="overflow-x: auto"]::-webkit-scrollbar {
+        display: none;
+    }
+</style>
 <?php include('header.php');  ?>
 
-<section class="top-home-page top-home-page-1time m-0">
+<section class="top-home-page top-home-page-1time m-0" style="padding-bottom:150px">
     <div id="particles-js"></div>
     <div class="position-relative">
         <!-- <img src="images/Vector.png" alt="" class="home-left-img m-0 col-lg-3 col-md-12 col-sm-12">
             <img src="images/Group 2.png" alt="" class="home-right-img m-0 col-lg-9 col-md-12 col-sm-12"> -->
         <div class="container home-container-height d-flex home-page-container-1440 spaced">
-            <h1 class="text-light main-section-heading text-start col-lg-7 col-md-12 col-sm-12"><br/><br/>Empowering Your
+            <h1 class="text-light main-section-heading text-start col-lg-5 col-md-12 col-sm-12"><br/><br/>Empowering Your
                 <br>
                 <div class="green-color w-100-span"> Digital Future </div>with Tailored Solutions
             </h1>
-<div >
-    <img src="images/svg/hero.png" alt="imgdf" class="heros shero">
-</div>
+            <img src="images/svg/hero.png" class=" text-start col-lg-8 col-md-6 col-sm-12" style="rotate: 45deg;">
         </div>
 
     </div>
@@ -63,13 +66,13 @@
         <section class="py-5 make-it-flex-class">
             <p class=" text-light text-center my-5 discover-text">Discover your <span class="green-color">Digital Solution</span>
             </p>
-            <div class="swiper-container my-5 pt-5 hidden">
+            <div class="swiper-container my-5 pt-5 hidden" style="">
                 <!-- Additiitional required wrapper -->
-                <div class="swiper-wrapper" style="transform: none !important;">
-                    <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
+                <div style="overflow-x: auto; flex-direction: row; width: 100%; display: flex; padding-top: 20px; padding-bottom: 20px; -ms-overflow-style: none; scrollbar-width: none;">
+                    <div style="-webkit-overflow-scrolling: touch;" class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
                         <img src="images/19.png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
-                            Dominate Digital Trading with INFIN8HUB’s Advanced Solutions
+                             Dominate Digital Trading with INFIN8HUB’s Advanced Solutions
                         </p>
                         <p class="text-light font-size-15 font-weight-300 font-onest">
                             INFIN<img src="images/Vector (1).png">HUB’s powerful e-trading platforms ensure seamless, secure
@@ -79,7 +82,7 @@
                         <a href="etradingTechnology.php" class="btn btn-card-size">Explore E-Trading Solutions</a>
                     </div>
 
-                    <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
+                    <div style="-webkit-overflow-scrolling: touch;" class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
                         <img src="images/19.png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
                             Optimize Your IT Landscape with INFIN8HUB’s Cloud & Data Solutions
@@ -92,7 +95,7 @@
                         <a href="coascloud.php" class="btn btn-card-size">Discover Our Cloud Services</a>
                     </div>
 
-                    <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
+                    <div style="-webkit-overflow-scrolling: touch;" class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
                         <img src="images/44.png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
                             Gain Financial Control with INFIN8HUB’s Cost and Risk Management Solutions
@@ -105,7 +108,7 @@
                         <a href="costcontrol.php" class="btn btn-card-size">Learn About Risk Management</a>
                     </div>
 
-                    <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
+                    <div style="-webkit-overflow-scrolling: touch;" class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
                         <img src="images/Vector (2).png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
                             Boost Your Brand’s Digital Impact with INFIN8HUB’s E-Services
@@ -119,7 +122,7 @@
                         <a href="digitalmedia.php" class="btn btn-card-size">Enhance Your Digital Presence</a>
                     </div>
 
-                    <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
+                    <div style="-webkit-overflow-scrolling: touch;" class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column">
                         <img src="images/Group 49.png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
                             Bring Your Brand to Life with INFIN8HUB’s Expert Content Creation
@@ -135,6 +138,8 @@
                 </div>
 
 
+
+
                 <!-- <div class="swiper-button-prev"></div> -->
                 <!-- <div class="swiper-button-next"></div> -->
 
@@ -142,7 +147,6 @@
                 <div class="hover-area right"></div>
             </div>
             <div class="pt-2 shows hide">
-    
                     <div class="swiper-slide transparent-bg background-dark whole-slide-link p-4 d-flex flex-column" style="margin-right: 0px !important;">
                         <img src="images/19.png" alt="" class="card-inner-image">
                         <p class="green-color my-3 font-size-18 font-weight-500 font-onest">
